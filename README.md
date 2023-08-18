@@ -11,7 +11,6 @@ Heyo! i'm tommaso dighero aka ElPlatypo, im a software enthusiast who dabbles in
 ## 🔨 Software
 - Blender
 - Unity3D
-- Adobe Premiere
 
 
 <!--
