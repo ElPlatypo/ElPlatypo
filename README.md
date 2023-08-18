@@ -1,6 +1,9 @@
 ## Who am i?
 
-Heyo! i'm tommaso dighero aka ElPlatypo, im a software enthusiast who dabbles in many things, from 3D rendering to rust simulations!
+Heyo! i'm tommaso dighero aka ElPlatypo, im a software enthusiast who dabbles in many things, from 3D rendering to rust simulations! i have a background in physics and studied it at university.
+
+I love working on DIY projects that both have to do with software and hardware, nothing better than the smell of fresh soldering paste in the morning.
+I strongly believe in open-source and giving the people the power to do things by themselves!
 
 ## 📚 Languages
 - Python
@@ -11,6 +14,7 @@ Heyo! i'm tommaso dighero aka ElPlatypo, im a software enthusiast who dabbles in
 ## 🔨 Software
 - Blender
 - Unity3D
+- Adobe Premiere
 
 
 <!--
