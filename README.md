@@ -1,4 +1,18 @@
-### Hi there 👋
+## Who am i?
+
+Heyo! i'm tommaso dighero aka ElPlatypo, im a software enthusiast who dabbles in many things, from 3D rendering to rust simulations!
+
+## 📚 Languages
+- Python
+- Rust
+- C#
+- C++
+
+## 🔨 Software
+- Blender
+- Unity3D
+- Adobe Premiere
+
 
 <!--
 **ElPlatypo/ElPlatypo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
