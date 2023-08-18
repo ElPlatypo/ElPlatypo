@@ -14,7 +14,6 @@ I strongly believe in open-source and giving the people the power to do things b
 ## 🔨 Software
 - Blender
 - Unity3D
-- Adobe Premiere
 
 
 <!--
